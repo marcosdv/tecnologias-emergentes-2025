@@ -8,11 +8,10 @@
 
 - [x] Aula 01 - Introdução ao C# .NET - Criando a primeira API Rest - 30/07/2025
 - [x] Aula 02 - Agenda Telefonica API - CRUD da TbOperadora - ADO.NET com SQL Server - 06/08/2025
-- [x] Aula 03 - Agenda Telefonica API - CRUD da TbOperadora - ADO.NET com Dapper e SQL Server - 13/08/2025
-- [ ] Aula 04 - Agenda Telefonica API - CRUD da TbOperadora e TbPessoa - ADO.NET com Dapper e SQL Server - 20/08/2025
-- [ ] Aula 05 - Agenda Telefonica API - CRUD da TbPessoa e Telefone - ADO.NET com Dapper e SQL Server - 27/08/2025
-- [ ] Aula 06 - Agenda Telefonica API - Injeção de Dependências - 03/09/2024
-- [ ] Aula 07 - Agenda Telefonica API - Adicionando Cache (Memory Cache) - 10/09/2024
+- [x] Aula 03 - Agenda Telefonica API - CRUD da TbOperadora e TbPessoa - ADO.NET com Dapper e SQL Server - 13/08/2025
+- [ ] Aula 04 - Agenda Telefonica API - CRUD da TbPessoa e Telefone - ADO.NET com Dapper e SQL Server - 27/08/2025
+- [ ] Aula 05 - Agenda Telefonica API - Injeção de Dependências - 03/09/2024
+- [ ] Aula 06 - Agenda Telefonica API - Adicionando Cache (Memory Cache) - 10/09/2024
 
 ### Tecnologias
 
