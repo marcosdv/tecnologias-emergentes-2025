@@ -1,6 +1,0 @@
-@Aula02_Agenda_HostAddress = http://localhost:5017
-
-GET {{Aula02_Agenda_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
