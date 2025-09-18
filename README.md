@@ -12,7 +12,7 @@
 - [x] Aula 04 - Agenda Telefonica API - CRUD da TbPessoa e Injeção de Dependências - ADO.NET com Dapper e SQL Server - 27/08/2025
 - [x] Aula 05 - Aula Teórica e Palestra - 03/09/2025
 - [x] Aula 06 - Agenda Telefonica API - Adicionando JWT Bearer - 10/09/2024
-- [ ] Aula 07 - Agenda Telefonica API - Criando Claims/Roles e Adicionando Cache (Memory Cache) - 17/09/2024
+- [x] Aula 07 - Agenda Telefonica API - Criando Claims/Roles e Adicionando Cache (Memory Cache) - 17/09/2024
 
 ### Tecnologias
 
