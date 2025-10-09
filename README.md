@@ -14,7 +14,7 @@
 - [x] Aula 06 - Agenda Telefonica API - Adicionando JWT Bearer - 10/09/2024
 - [x] Aula 07 - Agenda Telefonica API - Criando Claims/Roles e Adicionando Cache (Memory Cache) - 17/09/2024
 - [x] Aula 08 - Mensageria com RabbitMQ - 01/10/2025
-- [ ] Aula 09 - 08/10/2025
+- [x] Aula 09 - Garagem de Veículos - Entity Framework - 08/10/2025
 - [ ] Aula 10 - 22/10/2025
 - [ ] Aula 11 - 29/10/2025
 - [ ] Aula 12 - 05/11/2025
