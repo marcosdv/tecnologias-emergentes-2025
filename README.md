@@ -17,7 +17,7 @@
 - [x] Aula 09 - Garagem de Veículos - Entity Framework - Entidades - 08/10/2025
 - [x] Aula 10 - Garagem de Veículos - Entity Framework - Mapeamento e Repositories - 22/10/2025
 - [x] Aula 11 - Garagem de Veículos - Entity Framework - Services e Controllers - 29/10/2025
-- [ ] Aula 12 - Garagem de Veículos - Entity Framework - Services, Controllers e Testes Unitários - 05/11/2025
+- [x] Aula 12 - Garagem de Veículos - Entity Framework - Services, Controllers e Testes Unitários - 05/11/2025
 - [ ] Aula 13 - Garagem de Veículos - Entity Framework - Revisão - 12/11/2025
 
 ### Tecnologias
