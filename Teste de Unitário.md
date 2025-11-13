@@ -1,4 +1,4 @@
-# Disciplina: Programação Avançada Para Web - 2022 - 6º Período da UniAlfa
+# Disciplina: Tecnologias Emergentes - 2025 - 6º Período da UniAlfa
 
 ![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-ASP.NET%20C%23-red)
 
